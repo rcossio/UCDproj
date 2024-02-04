@@ -1,0 +1,20 @@
+>glucagon-likepeptide1-(7-36)amide{Sp:Human,Mouse,Rat} | The C-terminal arginine is amidated. GLP-1 (7-36) amide is a N-terminally truncated fragment of GLP1 [<a href='javascript:callRef("ReferenceDisplayForward?referenceId=17739&displayId=1", 960, 600)' title="1. Bonic A, Mackin RB. (2003) Protein Expr Purif. 28 (1): 15-24">1</a>,<a href='javascript:callRef("ReferenceDisplayForward?referenceId=17738&displayId=3", 960, 600)' title="3. Rouillé Y, Bianchi M, Irminger JC, Halban PA. (1997) FEBS Lett. 413 (1): 119-23">3</a>]. GLP-1 (7-36) amide is the more predominant fragment of the precursor 
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR
+>lixisenatide | Carboxy terminal amidated. 
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPSKKKKKK
+>exendin-4 | Amidation of C-terminal serine residue 
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS
+>tirzepatide | X2 and X13 are &alpha;-amino isobutyric acid (Aib), S39 is L-serinamide, and K20 is N6-{N-(hydrogen icosanedioyl)-&gamma;-Glu-bis[iminobis(ethylenoxy)acetyl]}-Lysine | Original:YXEGTFTSDYSIXLDKIAQKAFVQWLIAGGPSSGAPPPS
+YAEGTFTSDYSIALDKIAQKAFVQWLIAGGPSSGAPPPS
+>glucagon{Sp:Human,Mouse,Rat} |  
+HSQGTFTSDYSKYLDSRRAQDFVQWLMNT
+>semaglutide |  
+HAEGTFTSDVSSYLEGQAAKEFIAWLVRGRG
+>liraglutide | Amide bridge formed between lysine residue at position 20 and a glutamamic acid residue 
+HAEGTFTSDVSSYLEGQAAKEFIAWLVRGRG
+>glucagon-likepeptide1-(7-37){Sp:Human,Mouse,Rat} |  
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRG
+>exendin-3 |  
+HSDGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS
+>exendin-(9-39) |  
+DLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS

@@ -1,0 +1,26 @@
+>CCK-8{Sp:Human,Mouse,Rat} | The C-terminal phenylalanine is amidated; the tyrosine residue at position 2 is sulfated, as indicated by Tys, which represents Tyr(SO3H). 
+DYMGWMDF
+>CCK-33{Sp:Human} | The C-terminal phenylalanine is amidated and the tyrosine residue at position 27 is sulfated, as indicated by Tys which represents Tyr(SO3H). 
+KAPSGRMSIVKNLQNLDPSHRISDRDYMGWMDF
+>desulfatedcholecystokinin-8 |  
+DYMGWMDF
+>CCK-4{Sp:Human} |  
+WMDF
+>A-71378 | Tyrosine residue is desamino-Tyr(SO<sup>3</sup>H); asparagine residue is N-methyl-Asp (NMe)-Asp, C-terminal phenylalanine is amidated | Original:XGWXDF
+GWNDF
+>desulfatedgastrin-14{Sp:Human} | The C-terminal phenylalanine is amidated. 
+WLEEEEEAYGWMDF
+>gastrin-34{Sp:Human} | The N-terminal glutamic acid cyclizes into pyroglutamic acid (represented by pGlu and X), the tyrosine residue at position 29 is sulfated (represented by Tys) and the C-terminal phenylalanine is amidated. | Original:XLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF
+LGPQGPPHLVADPSKKQGPWLEEEEEAEGWMDF
+>gastrin-71{Sp:Human} | The tyrosine residue at position 66 is sulfated by tyrosyl-protein sulfotransferase, as indicated by Tys, and the C-terminal phenylalanine is amidated. 
+SWKPRSQQPDAPLGTGANRDLELPWLEQQGPASHHRRQLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF
+>gastrin-71{Sp:Human} | The tyrosine residue at position 66 is sulfated by tyrosyl-protein sulfotransferase, as indicated by Tys, and the C-terminal phenylalanine is amidated. | Original:SWKPRSQQPDAPLGTGANRDLELPWLEQQGPASHHRRQLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF
+SWKPRSQQPDAPLGTGANRDLELPWLEQQGPASHHRRQLGPQGPPHLVADPSKKQGPWLEEEEEAEGWMDF
+>desulfatedgastrin-17{Sp:Human} |  Original:XGPWLEEEEEAYGWMDF
+GPWLEEEEEAYGWMDF
+>desulfatedgastrin-34{Sp:Human} |  Original:XLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF
+LGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF
+>desulfatedgastrin-71{Sp:Human} |  
+SWKPRSQQPDAPLGTGANRDLELPWLEQQGPASHHRRQLGPQGPPHLVADPSKKQGPWLEEEEEAYGWMDF
+>gastrin-14{Sp:Human} |  
+WLEEEEEAYGWMDF

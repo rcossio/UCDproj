@@ -1,0 +1,30 @@
+>argininevasotocin | Amidation of C-terminal glycine residue 
+CYIQNCPRG
+>oxytocin{Sp:Human,Mouse,Rat} | A disulfide bond is formed between cysteine residues at positions 1 and 6 and the C-terminal glycine is amidated. 
+CYIQNCPLG
+>[Phe<sup>3</sup>]OT | Isoleucine residue at position 3 of the natural sequence is replaced by phenylalanine 
+CYFQNCPLG
+>vasopressin{Sp:Human,Mouse,Rat} | One disulfide bond is formed between cysteine residues at positions 1 and 6 and the C-terminal glycine is amidated. 
+CYFQNCPRG
+>dAVP | Cysteine residue 1 of the natural sequence of AVP is deaminated to become mercaptopropanoic acid (Mpa); disulphide bond between Mpa and Cys 6. | Original:XYFQNCPRG
+CYFQNCPRG
+>[Thr<sup>4</sup>,Gly<sup>7</sup>]OT | The glutamine residue at position 4 of the natural sequence is replaced by threonine, and the proline residue at position 7 is replaced by glycine 
+CYITNCGLG
+>d[Cha<sup>4</sup>]AVP | N-terminal cysteine is deamino-cysteine; glutamine residue at position 4 of the natural sequence is replaced with 3-cyclohexylalanine | Original:CYFXNCPRG
+CYFFNCPRG
+>desmopressin | N-terminal cysteine residue is deamino-cysteine; arginine residue 8 is D-Arg 
+CYFQNCPRG
+>d[Leu<sup>4</sup>]AVP | N-terminal cysteine residue of the natural sequence is demino-cys; glutamine residue 4 is replaced by leucine 
+CYFLNCPRG
+>carbetocin |  Original:Unk(1)-MeTyr-Ile-Gln-Asn-Cys(1)-Pro-Leu-Gly-NH2
+YIQNCPLG
+>d(CH<sub>2</sub>)<sub>5</sub>[Tyr(Me)<sup>2</sup>,Thr<sup>4</sup>,Tyr-NH<sub>2</sub><sup>9</sup>]OVT | N-terminal cysteine residue is replaced with Pmp (p-methoxyphenol group) and is methylated; C-terminal glycine residue is replaced with tyrosine. The name OVT indicates that arginine residue 8 of the natural sequence is replaced with ornithine | Original:CYITNCPXY
+CYITNCPKY
+>L-365,209 | Phenylalanine residues are D-Phe; residues 1 and 2 are [1-(carboxymethyl)cyclohexyl]-L-norvalyl | Original:XXFPFI
+FPFI
+>L-366,682 | Residues 5 and 6 are 2-carboxypiperidine | Original:HPWIXX
+HPWIPP
+>d(CH<sub>2</sub>)<sub>5</sub>[Tyr(Me)<sup>2</sup>]AVP | C-terminal cysteine residue of the natural sequence is replaced with Pmp (p-methoxyphenol group); tyrosine residue 2 is methylated 
+CYFQNCPRG
+>atosiban | Residue 1 is mercaptopropanoic acid (deamino-cysteine of the natural sequenec of oxytocin), residue 2 is D-Tyr(2Et), residue 8 is ornithine; disulphide bridge between cysteine residue 6 and N-terminal Mpa | Original:XYITNCPXG
+CYITNCPKG

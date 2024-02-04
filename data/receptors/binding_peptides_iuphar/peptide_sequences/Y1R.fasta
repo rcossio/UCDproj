@@ -1,0 +1,10 @@
+>NPY{Sp:Pig} | The C-terminal tyrosine is amidated. 
+YPSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY
+>[Leu<sup>31</sup>,Pro<sup>34</sup>]NPY | Isoleucine residue 31 and glutamine residue 34 of the natural sequence are replaced with leucine and proline respectively 
+YPLKPPNPGEDAPAEDMARYYSALRHYINLLTRPRY
+>[Ala<sup>31</sup>,Aib<sup>32</sup>]NPY(pig) | Isoleucine residue at position 31 of the natural sequence, and threonine residue at position 32 are replaced by alanine and &alpha;-aminoisobutyric acid (Aib) respectively | Original:YPSKPDNPGEDAPAEDLARYYSALRHYINLAXRQRY
+YPSKPDNPGEDAPAEDLARYYSALRHYINLAARQRY
+>neuropeptideY{Sp:Human,Mouse,Rat} | The C-terminal tyrosine is amidated. 
+YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY
+>peptideYY{Sp:Human} | The C-terminal tyrosine is amidated. 
+YPIKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY

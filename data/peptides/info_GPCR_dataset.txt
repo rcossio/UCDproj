@@ -1,0 +1,5 @@
+ Peptides by id: 477
+ Peptides by seq: 413
+ Proteins by id: 157
+ Proteins by seq: 157
+ Interactions: 1099

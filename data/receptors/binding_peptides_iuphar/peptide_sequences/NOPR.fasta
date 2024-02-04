@@ -1,0 +1,24 @@
+>UFP-102 | C-terminal glutamine residue is amidated; phenylalanine residue at position 4 is fluorinated in the 4th position of the phenyl ring 
+FGGFTGARKSARKRKNQ
+>[(pF)Phe<sup>4</sup>]N/OFQ-(1-13)-NH<sub>2</sub> | C-terminal lsyine is amidated; phenylalanine residue at position 4 has fluorine substituted for one of its hydrogen atoms 
+FGGFTGARKSARK
+>N/OFQ-NH<sub>2</sub> | Amidation of C-terminal glutamine residue 
+FGGFTGARKSARKLANQ
+>N/OFQ-(1-13)-NH<sub>2</sub> | Amidation of C-terminal lysine residue 
+FGGFTGARKSARK
+>nociceptin/orphaninFQ{Sp:Human,Mouse,Rat} |  
+FGGFTGARKSARKLANQ
+>Ac-RYYRWK-NH<sub>2</sub> | Acetylation of N-terminal arginine residue; amidatiojn of C-terminal lysine residue 
+RYYRWK
+>[Arg<sup>14</sup>Lys<sup>15</sup>]N/OFQ | Leucine residue at postion 14 of the natural sequence and asparagine at position 15 are replaced by arginine and lysine respectively 
+FGGFTGARKSARKRKNQ
+>[F/G]N/OFQ-(1-13)-NH<sub>2</sub> | Residue 2 is &psi;(CH<sub>2</sub>-NH)Gly; C-terminal alanine is amidated 
+FGGFTGARKSARKLA
+>Ac-RYYRIK-NH<sub>2</sub> |  
+RYYRIK
+>UFP-112 | C-terminal glutamine residue is amidated; phenylalanine residue at position 4 is fluorinated in the 4th position of the phenyl ring; residue 7 is &alpha;-aminoisobutyric acid (&alpha;-methylalanine) | Original:FGGFTGXRKSARKRKNQ
+FGGFTGFRKSARKRKNQ
+>UFP-101 | C-terminal glutamine residue is amidated; N-terminal glycine residue is N-benzyl glycine 
+GGGFTGARKSARKRKNQ
+>[Nphe<sup>1</sup>]N/OFQ-(1-13)-NH<sub>2</sub> | N-terminal phenylalanine in the natural sequence is replaced by N-benzylglycine. Amidation of C-terminal lysine residue 
+FGGFTGARKSARK

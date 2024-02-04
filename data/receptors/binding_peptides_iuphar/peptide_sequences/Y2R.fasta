@@ -1,0 +1,42 @@
+>peptideYY{Sp:Human} | The C-terminal tyrosine is amidated. 
+YPIKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY
+>peptideYY{Sp:Mouse,Rat,Pig} | The C-terminal tyrosine is amidated. In the porcine peptide the serine residue at position 13 has been shown to be phosphorylated [<a href='javascript:callRef("ReferenceDisplayForward?referenceId=18197&displayId=1", 960, 600)' title="1. Chen Z, Eriste E, Jonsson AP, Norberg A, Nepomuceno D, Lovenberg TW, Bergman T, Efendic S, Jörnvall H, Sillard R. (2001) FEBS Lett. 492 (1-2): 119-22">1</a>], and this modification is predicted to  occur in the rodent orthologues of the peptide 
+YPAKPEAPGEDASPEELSRYYASLRHYLNLVTRQRY
+>PYY-(3-36){Sp:Human} | The C-terminal tyrosine is amidated. 
+IKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY
+>neuropeptideY{Sp:Human,Mouse,Rat} | The C-terminal tyrosine is amidated. 
+YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY
+>NPY{Sp:Pig} | The C-terminal tyrosine is amidated. 
+YPSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY
+>NPY-(3-36)(pig) |  
+SKPDNPGEDAPAEDLARYYSALRHYINLITRQRY
+>PYY-(13-36)(mouse,rat,pig) |  
+SPEELSRYYASLRHYLNLVTRQRY
+>NPY-(2-36)(pig) |  
+PSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY
+>NPY-(2-36) |  
+PSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY
+>NPY-(13-36)(pig) |  
+PAEDLARYYSALRHYINLITRQRY
+>C2-NPY(pig) | Disulphide bond between cysteine residues at positions 2 and 7; Cys 7 is D-isomer; arginine residue at position 5 is 8-aminooctanoyl-arginine. C-terminal tyrosine residue is amidated. 
+YCSKRHCINLITRQRY
+>NPY-(20-36)(pig) |  
+YYSALRHYINLITRQRY
+>NPY-(16-36)(pig) |  
+DLARYYSALRHYINLITRQRY
+>NPY-(22-36)(pig) |  
+SALRHYINLITRQRY
+>[D-Trp<sup>32</sup>]NPY | Tyrosine residue at position 32 is replaced by the D-isomer 
+YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY
+>NPY-(26-36)(pig) |  
+HYINLITRQRY
+>[Pro<sup>34</sup>]PYY(human) | Glutamine residue at position 34 is replaced by proline 
+YPIKPEAPGEDASPEELNRYYASLRHYLNLVTRPRY
+>[Leu<sup>31</sup>,Pro<sup>34</sup>]PYY(human) | Valine residue at position 31 of the natural sequence is replaced by leucine; glutamine residue at position 34 is replaced by proline 
+YPIKPEAPGEDASPEELNRYYASLRHYLNLLTRPRY
+>[Leu<sup>31</sup>,Pro<sup>34</sup>]NPY | Isoleucine residue 31 and glutamine residue 34 of the natural sequence are replaced with leucine and proline respectively 
+YPLKPPNPGEDAPAEDMARYYSALRHYINLLTRPRY
+>[Leu<sup>31</sup>,Pro<sup>34</sup>]NPY(pig) | Isoleucine at position 31 of the natural sequence is replaced by leucine;  glutamine at position 34 is replaced by proline 
+YPSKPDNPGEDAPAEDLARYYSALRHYINLLTRPRY
+>[Ala<sup>31</sup>,Aib<sup>32</sup>]NPY(pig) | Isoleucine residue at position 31 of the natural sequence, and threonine residue at position 32 are replaced by alanine and &alpha;-aminoisobutyric acid (Aib) respectively | Original:YPSKPDNPGEDAPAEDLARYYSALRHYINLAXRQRY
+YPSKPDNPGEDAPAEDLARYYSALRHYINLAARQRY

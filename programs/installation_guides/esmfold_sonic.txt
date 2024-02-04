@@ -1,0 +1,17 @@
+#Follow https://github.com/facebookresearch/esm
+
+conda create --name esm
+conda activate esm
+
+module load cuda/11.2 
+
+pip install "fair-esm[esmfold]"
+pip install 'dllogger @ git+https://github.com/NVIDIA/dllogger.git'
+
+module load gcc/7.4.0
+
+#Use actual python version, not necessarily python 3.10
+export LD_LIBRARY_PATH="$CONDA_PREFIX/envs/esm/lib/python3.10/site-packages/nvidia/cublas/lib/:$LD_LIBRARY_PATH"
+pip install 'openfold @ git+https://github.com/aqlaboratory/openfold.git@4b41059694619831a7db195b7e0988fc4ff3a307'
+
+pip install biotite

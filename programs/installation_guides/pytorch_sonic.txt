@@ -1,0 +1,15 @@
+conda create -n ml python=3
+conda activate ml
+module load cuda/11.2
+pip install torch
+pip install pandas
+pip install pandarallel
+pip install sckit-leaarn
+pip install sckit-learn
+pip install scikit-learn
+pip install torchmetrics
+pip install tensorboard
+pip install pytorch_lightning
+
+# Next line because it raised a related error
+pip uninstall nvidia_cublas_cu11

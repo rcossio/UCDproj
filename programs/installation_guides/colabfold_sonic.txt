@@ -1,0 +1,25 @@
+# Download miniconda and install
+# Accept agreement and set up conda folder but dont initialize the conda environment yet
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+
+#Install python 3.8
+~/miniconda3/bin/conda install -c anaconda python=3.8
+
+# Now we init the environment
+# You have to log-out and re log-in for the environment to activate
+~/miniconda3/bin/conda init
+
+# Load these modules or whatever similar you have
+module load cuda/11.2
+module load cudnn/8.0.5
+
+# Install condafold with its dependencies
+pip install --no-warn-conflicts "colabfold[alphafold] @ git+https://github.com/sokrypton/ColabFold"
+
+# Problematic step: Install JAX library
+pip install "jax[cuda]>=0.3.8,<0.4" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+
+# Install other utilities needed for alignment, pdb parsing, etc.
+conda install -y -c conda-forge -c bioconda kalign2=2.04 hhsuite=3.3.0 python="3.8" 
+conda install -y -c conda-forge openmm=7.5.1 python="3.8" pdbfixer 

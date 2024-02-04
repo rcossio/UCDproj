@@ -1,0 +1,16 @@
+>urocortin1{Sp:Human} | The C-terminal valine is amidated 
+DNPSLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV
+>urocortin1{Sp:Mouse,Rat} | The C-terminal valine is amidated 
+DDPPLSIDLTFHLLRTLLELARTQSQRERAEQNRIIFDSV
+>urotensin1(fish) |  
+NDDPPISIDLTFHLLRNMIEMARIENEREQAGLNRKYLDEV
+>corticotrophin-releasinghormone{Sp:Human,Mouse,Rat} | The C-terminal Isoleucine is amidated. 
+SEEPPISLDLTFHLLREVLEMARAEQLAQQAHSNRKLMEII
+>corticotropin-releasingfactor{Sp:Sheep} | Amidation of C-terminal alanine residue 
+SQEPPISLDLTFHLLREVLEMTKADQLAQQAHSNRKLLDIA
+>sauvagine | Pyrrolidone carboxylic acid at N-terminal (pGlu) and amidation of C-terminal leucine residue | Original:XGPPISIDLSLELLRKMIEIEKQEKEKQQAANNRLLLDTI
+GPPISIDLSLELLRKMIEIEKQEKEKQQAANNRLLLDTI
+>urocortin2{Sp:Human} | The C-terminal valine is amidated. 
+IVLSLDVPIGLLQILLEQARARAAREQATTNARILARV
+>&alpha;-helicalCRF |  
+DLTFHLLREMLEMAKAEQEAEQAALNRLLLEEA

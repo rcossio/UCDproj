@@ -1,0 +1,38 @@
+>DSLET | Serine at position 2 is D-Ser 
+YSGFLT
+>DADLE |  
+YAGFL
+>DPDPE | Residues 2 and 5 are D-penicillamine (3-mercaptovaline) (D-Pen); a disulphide bond is formed between these residues | Original:YXGFX
+YCGFC
+>DPDPE | Residues 2 and 5 are D-penicillamine (3-mercaptovaline) (D-Pen); a disulphide bond is formed between these residues | Original:YXGFX
+YCGFV
+>DPDPE | Residues 2 and 5 are D-penicillamine (3-mercaptovaline) (D-Pen); a disulphide bond is formed between these residues | Original:YXGFX
+YVGFC
+>DPDPE | Residues 2 and 5 are D-penicillamine (3-mercaptovaline) (D-Pen); a disulphide bond is formed between these residues | Original:YXGFX
+YVGFV
+>deltorphinII | Amidation of C-terminal glycine 
+YAFEVVG
+>[D-Ala<sup>2</sup>]deltorphinII | Amidation of C-terminal glycine residue; alanine residue 2 is the D-isomer 
+YAFEVVG
+>[Leu]enkephalin{Sp:Human,Mouse,Rat} |  
+YGGFL
+>DSTBULET | Serine residue at position 2 is D-Ser(OtBu) 
+YSGFLT
+>dynorphinA-(1-8){Sp:Human,Mouse,Rat} |  
+YGGFLRRI
+>&beta;-endorphin{Sp:Human} |  
+YGGFMTSEKSQTPLVTLFKNAIIKNAYKKGE
+>dynorphin-(1-11) |  
+YGGFLRRIRPK
+>dynorphinA-(1-13){Sp:Human,Mouse,Rat} |  
+YGGFLRRIRPKLK
+>dynorphinB{Sp:Human,Mouse,Rat} |  
+YGGFLRRQFKVVT
+>dynorphinA{Sp:Human,Mouse,Rat} |  
+YGGFLRRIRPKLKWDNQ
+>endomorphin-1{Sp:Human} | The C-terminal phenylalanine is amidated 
+YPWF
+>CTAP | Residue 7 is penicillamine (3-mercaptovaline); disulphide bond formation between cysteine at position 2 and penicillamine at position 7, C-terminal threonine residue is amidated | Original:FCYWRTXT
+FCYWRTCT
+>CTAP | Residue 7 is penicillamine (3-mercaptovaline); disulphide bond formation between cysteine at position 2 and penicillamine at position 7, C-terminal threonine residue is amidated | Original:FCYWRTXT
+FCYWRTVT

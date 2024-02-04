@@ -1,0 +1,32 @@
+>hemokinin1{Sp:Mouse} | Amidation of C-terminal methionine residue 
+RSRTRQFYGLM
+>substanceP{Sp:Human,Mouse,Rat} | The C-terminal methionine is amidated. 
+RPKPQQFFGLM
+>septide | C-terminal methionine is amidated; N-terminal glutamine residue is pyroglutamic acid | Original:XFFPLM
+FFPLM
+>neurokininA{Sp:Human,Mouse,Rat} | The C-terminal methionine is amidated. 
+HKTDSFVGLM
+>neurokininB{Sp:Human,Mouse,Rat,Pig} | The C-terminal methionine is amidated. 
+DMHDFFVGLM
+>[Sar<sup>9</sup>,Met(O<sub>2</sub>)<sup>11</sup>]SP | Glycine residue at position 9 of the natural sequence is replaced by sarcosine (N-methylglycine); C-terminal methionine residue is methionine dioxide | Original:RPKPQQFFXLM
+RPKPQQFFGLM
+>physalaemin | Amidation of C-terminal methionine residue; N-terminal glutamine is cyclised into a pyrrolidone carboxylic acid (represented by pGlu/X) | Original:XADPNKFYGLM
+ADPNKFYGLM
+>eledoisin | N-terminal glutamine is cyclated to pyrrolidone carboxylic acid (represented by pGlu/X); C-terminal methionine is amidated. | Original:XPSKDAFIGLM
+PSKDAFIGLM
+>phyllomedusin | Amidation of methionine residue at C-terminus; pyrrolidone carboxylic acid. 
+QNPNRFIGLM
+>substanceP-(4-11) | Amidation of C-terminal methionine 
+PQQFFGLM
+>neuropeptide-&gamma; |  
+DAGHGQISHKRHKTDSFVGLM
+>substanceP-OMe | C-terminal methionine residue is O-methylated 
+RPKPQQFFGLM
+>kassinin | Amidation of C-terminal methionine residue 
+DVPKSDQFVGLM
+>neuropeptideK{Sp:Human,Rat} | The C-terminal methionine is amidated. 
+DADSSIEKQVALLKALYGHGQISHKRHKTDSFVGLM
+>substanceP-(6-11) | Amidation of C-terminal methionine 
+QFFGLM
+>R-486 | Residue 5 is &beta;-alanine; C-terminal methionine is amidated | Original:DSFWXLM
+DSFWALM

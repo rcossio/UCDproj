@@ -1,0 +1,10 @@
+>JMV180 | Residues 2 and 5 are norleucine; N-terminal tyrosine residue is t-butoxycarbonyl-tyrosine and is sulphated (Boc-Tyr(SO3H)); C-terminal aspartic acid is bonded to 2-phenylethylester | Original:YXGWXD
+YLGWLD
+>CCK-33{Sp:Human} | The C-terminal phenylalanine is amidated and the tyrosine residue at position 27 is sulfated, as indicated by Tys which represents Tyr(SO3H). 
+KAPSGRMSIVKNLQNLDPSHRISDRDYMGWMDF
+>CCK-8{Sp:Human,Mouse,Rat} | The C-terminal phenylalanine is amidated; the tyrosine residue at position 2 is sulfated, as indicated by Tys, which represents Tyr(SO3H). 
+DYMGWMDF
+>CCK-58{Sp:Human} | The C-terminal phenylalanine is amidated and the tyrosine residue at position 52 is sulfated, as indicated by Tys which represents Tyr(SO3H). 
+VSQRTDGESRAHLGALLARYIQQARKAPSGRMSIVKNLQNLDPSHRISDRDYMGWMDF
+>CCK-39{Sp:Human} |  
+YIQQARKAPSGRMSIVKNLQNLDPSHRISDRDYMGWMDF

@@ -1,0 +1,11 @@
+ML line:
+- Check data
+
+Rosetta line:
+- Re-include muscarinic receptors as sets4 and 5
+- Find a way of evaluating the result, check PPI-Affinity
+
+Other options:
+- Evaluate the option of simply using the original pepticde backbone, erase the side chain and mutate them to use flexpepdock/flexpepbind.
+The problem is choosing which papetides can be used. It doesn't make sence to replace a regurar peptide with a proline since it affect the backbone.
+Also it doesn't make sense to do it with proteins that have important parts missing.

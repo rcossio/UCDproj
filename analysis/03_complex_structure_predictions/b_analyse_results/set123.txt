@@ -1,0 +1,526 @@
+##SET1
+
+#6PB0_CASA1_Hs_114_129 CRF1R
+|       18      LELARTQSQRERAEQN        33
+|               |+ |  | |  |  +|
+|       114     LQAAHAQEQIRRMNEN        129
+vmd -e predictions/6PB0_CASA1_Hs_114_129/models_merging/view.vmd
+#6PB0_CASA2_Bt_160_178 CRF1R
+|       19      ELARTQSQRERAEQNRIIF     37
+|               |+   +++ |  |+||+ |
+|       160     EVFTKKTKLEEEEKNRLNF     178
+vmd -e predictions/6PB0_CASA2_Bt_160_178/models_merging/view.vmd
+#6PB0_CASB_Hs_44_55 CRF1R
+|       24      QSQRERAEQNRI    35
+|               | | |   |++|
+|       44      QQQGEDEHQDKI    55
+vmd -e predictions/6PB0_CASB_Hs_44_55/models_merging/view.vmd
+#6P9X_CASA2_Bt_141_156 CRF1R
+|       25      EQLAQQAHSNRKLMEI        40
+|               |||++    ++| +++
+|       141     EQLSESEENDKKTVDM        156
+vmd -e predictions/6P9X_CASA2_Bt_141_156/models_merging/view.vmd
+#6P9X_CASA2_Bt_81_89 CRF1R
+|       1       SEEPPISLD       9
+|               +||  |++|
+|       81      TEEVKITVD       89
+vmd -e predictions/6P9X_CASA2_Bt_81_89/models_merging/view.vmd
+#7TS0_CASA1_Hs_114_129 CRF2R
+|       18      LELARTQSQRERAEQN        33
+|               |+ |  | |  |  +|
+|       114     LQAAHAQEQIRRMNEN        129
+vmd -e predictions/7TS0_CASA1_Hs_114_129/models_merging/view.vmd
+#7TS0_CASA2_Bt_160_178 CRF2R
+|       19      ELARTQSQRERAEQNRIIF     37
+|               |+   +++ |  |+||+ |
+|       160     EVFTKKTKLEEEEKNRLNF     178
+vmd -e predictions/7TS0_CASA2_Bt_160_178/models_merging/view.vmd
+#7TS0_CASB_Hs_44_55 CRF2R
+|       24      QSQRERAEQNRI    35
+|               | | |   |++|
+|       44      QQQGEDEHQDKI    55
+vmd -e predictions/7TS0_CASB_Hs_44_55/models_merging/view.vmd
+#7F9Z_CASA1_Bt_178_180 GHSR
+|       3       AWF     5
+|               ||+
+|       178     AWY     180
+vmd -e predictions/7F9Z_CASA1_Bt_178_180/models_merging/view.vmd
+#7S1M_CASA2_Bt_72_89 GLP1R
+|       7       TSDLSKQMEEEAVRLFIE      24
+|               +|+ | ++ || |++ ++
+|       72      SSEESAEVAEEEVKITVD      89
+vmd -e predictions/7S1M_CASA2_Bt_72_89/models_merging/view.vmd
+#6B3J_CASA1_Bt_73_80 GLP1R
+|       13      KQMEEEAV        20
+|               |||| |++
+|       73      KQMEAESI        80
+vmd -e predictions/6B3J_CASA1_Bt_73_80/models_merging/view.vmd
+#7D68_CASA1_Bt_193_201 GLP2R
+|       5       SFSDEMNTI       13
+|               ||||  | |
+|       193     SFSDIPNPI       201
+vmd -e predictions/7D68_CASA1_Bt_193_201/models_merging/view.vmd
+#7D68_CASA1_Hs_139_150 GLP2R
+|       14      LDNLAARDFINW    25
+|               |+ |||  +  |
+|       139     LNQLAAYPYAVW    150
+vmd -e predictions/7D68_CASA1_Hs_139_150/models_merging/view.vmd
+#7D68_CASA1_Hs_85_92 GLP2R
+|       2       ADGSFSDE        9
+|               +| | |||
+|       85      SDISSSDE        92
+vmd -e predictions/7D68_CASA1_Hs_85_92/models_merging/view.vmd
+#7RMG_CASA1_Bt_166_171 NK1R
+|       5       QQFFGL  10
+|               +||+ |
+|       166     RQFYQL  171
+vmd -e predictions/7RMG_CASA1_Bt_166_171/models_merging/view.vmd
+#7RMI_CASA1_Bt_167_171 NK1R
+|       1       QFFGL   5
+|               ||+ |
+|       167     QFYQL   171
+vmd -e predictions/7RMI_CASA1_Bt_167_171/models_merging/view.vmd
+#7RMI_CASA2_Bt_102_104 NK1R
+|       1       QFF     3
+|               ||+
+|       102     QFY     104
+vmd -e predictions/7RMI_CASA2_Bt_102_104/models_merging/view.vmd
+#7RMG_CASK_Bt_34_39 NK1R
+|       3       KPQQFF  8
+|               | ++||
+|       34      KDERFF  39
+vmd -e predictions/7RMG_CASK_Bt_34_39/models_merging/view.vmd
+#7VGX_CASA1_Hs_23_34 Y1R
+|       1       YPSKPDNPGEDA    12
+|               || +  || ||+
+|       23      YPERLQNPSEDS    34
+vmd -e predictions/7VGX_CASA1_Hs_23_34/models_merging/view.vmd
+#7VGX_CASA1_Hs_45_53 Y1R
+|       27      YINLITRQR       35
+|               |+| + |||
+|       45      YMNGMNRQR       53
+vmd -e predictions/7VGX_CASA1_Hs_45_53/models_merging/view.vmd
+#7VGX_CASA1_Hs_151_159 Y1R
+|       20      YYSALRHYI       28
+|               ||  + +|+
+|       151     YYPQIMQYV       159
+vmd -e predictions/7VGX_CASA1_Hs_151_159/models_merging/view.vmd
+#7VGX_CASA1_Hs_30_56 Y1R
+|       5       PDNPGEDAPAEDMARYYSALRHYINLI     31
+|               ||   |  | ||   |   +    |++
+|       30      PDESSEPIPLEDREEYMNGMNRQRNIL     56
+vmd -e predictions/7VGX_CASA1_Hs_30_56/models_merging/view.vmd
+#7X9B_CASA1_Hs_23_34 Y2R
+|       1       YPSKPDNPGEDA    12
+|               || +  || ||+
+|       23      YPERLQNPSEDS    34
+vmd -e predictions/7X9B_CASA1_Hs_23_34/models_merging/view.vmd
+#7X9B_CASA1_Hs_45_53 Y2R
+|       27      YINLITRQR       35
+|               |+| + |||
+|       45      YMNGMNRQR       53
+vmd -e predictions/7X9B_CASA1_Hs_45_53/models_merging/view.vmd
+#7X9B_CASA1_Hs_151_159 Y2R
+|       20      YYSALRHYI       28
+|               ||  + +|+
+|       151     YYPQIMQYV       159
+vmd -e predictions/7X9B_CASA1_Hs_151_159/models_merging/view.vmd
+#7X9B_CASA1_Hs_30_56 Y2R
+|       5       PDNPGEDAPAEDMARYYSALRHYINLI     31
+|               ||   |  | ||   |   +    |++
+|       30      PDESSEPIPLEDREEYMNGMNRQRNIL     56
+vmd -e predictions/7X9B_CASA1_Hs_30_56/models_merging/view.vmd
+#8F7S_CASB_Bt_106_109 DOPR
+|       4       EVVG    7
+|               ||+|
+|       106     EVMG    109
+vmd -e predictions/8F7S_CASB_Bt_106_109/models_merging/view.vmd
+#8F7W_CASA2_Bt_178_182 KOPR
+|       4       FLRRI   8
+|               ||++|
+|       178     FLKKI   182
+vmd -e predictions/8F7W_CASA2_Bt_178_182/models_merging/view.vmd
+#8F7W_CASA1_Bt_106_113 KOPR
+|       1       YGGFLRRI        8
+|               | |+| ++
+|       106     YLGYLEQL        113
+vmd -e predictions/8F7W_CASA1_Bt_106_113/models_merging/view.vmd
+#8F7Q_CASA1_Bt_202_213 MOPR
+|       3       GFMTSEKSQTPL    14
+|               |   |||+  ||
+|       202     GSENSEKTTMPL    213
+vmd -e predictions/8F7Q_CASA1_Bt_202_213/models_merging/view.vmd
+#8F7R_CASK_Hs_55_58 MOPR
+|       1       YPWF    4
+|               ||++
+|       55      YPYY    58
+vmd -e predictions/8F7R_CASK_Hs_55_58/models_merging/view.vmd
+#8F7R_CASA1_Hs_145_147 MOPR
+|       1       YPW     3
+|               ||+
+|       145     YPY     147
+vmd -e predictions/8F7R_CASA1_Hs_145_147/models_merging/view.vmd
+#8F7Q_CASA2_Bt_41_62 MOPR
+|       5       MTSEKSQTPLVTLFKNAIIKNA  26
+|               |    |+  | + |   +++||
+|       41      MAINPSKENLCSTFCKEVVRNA  62
+vmd -e predictions/8F7Q_CASA2_Bt_41_62/models_merging/view.vmd
+#8F7R_CASB_Hs_56_59 MOPR
+|       1       YPWF    4
+|               || |
+|       56      YPSF    59
+vmd -e predictions/8F7R_CASB_Hs_56_59/models_merging/view.vmd
+#8E3Z_CASA2_Bt_187_198 VIP1R
+|       15      KQMAVKKYLNSI    26
+|               ++ |+ +|| ++
+|       187     QKFALPQYLKTV    198
+vmd -e predictions/8E3Z_CASA2_Bt_187_198/models_merging/view.vmd
+
+##SET2
+#6PB0_CASA1_Hs_29_33 CRF1R
+|       2       NPSLS   6
+|               ||| |
+|       29      NPSES   33
+vmd -e predictions/6PB0_CASA1_Hs_29_33/models_merging/view.vmd
+#6PB0_CASA2_Bt_44_46 CRF1R
+|       2       NPS     4
+|               |||
+|       44      NPS     46
+vmd -e predictions/6PB0_CASA2_Bt_44_46/models_merging/view.vmd
+#6PB0_CASA1_Hs_86_88 CRF1R
+|       6       SID     8
+|               |||
+|       86      SID     88
+vmd -e predictions/6PB0_CASA1_Hs_86_88/models_merging/view.vmd
+#7TS0_CASA1_Hs_29_33 CRF2R
+|       2       NPSLS   6
+|               ||| |
+|       29      NPSES   33
+vmd -e predictions/7TS0_CASA1_Hs_29_33/models_merging/view.vmd
+#7TS0_CASA2_Bt_44_46 CRF2R
+|       2       NPS     4
+|               |||
+|       44      NPS     46
+vmd -e predictions/7TS0_CASA2_Bt_44_46/models_merging/view.vmd
+#7TS0_CASA1_Hs_86_88 CRF2R
+|       6       SID     8
+|               |||
+|       86      SID     88
+vmd -e predictions/7TS0_CASA1_Hs_86_88/models_merging/view.vmd
+#6B3J_CASA1_Bt_176_178 GLP1R
+|       34      SGA     36
+|               |||
+|       176     SGA     178
+vmd -e predictions/6B3J_CASA1_Bt_176_178/models_merging/view.vmd
+#7RMG_CASB_Hs_178_182 NK1R
+|       2       PKPQQ   6
+|               | |||
+|       178     PIPQQ   182
+vmd -e predictions/7RMG_CASB_Hs_178_182/models_merging/view.vmd
+#7RMG_CASB_Bt_194_198 NK1R
+|       2       PKPQQ   6
+|               | ||+
+|       194     PYPQR   198
+vmd -e predictions/7RMG_CASB_Bt_194_198/models_merging/view.vmd
+#7RMG_CASB_Bt_187_191 NK1R
+|       2       PKPQQ   6
+|               | ||+
+|       187     PVPQK   191
+vmd -e predictions/7RMG_CASB_Bt_187_191/models_merging/view.vmd
+#7RMG_CASB_Hs_155_159 NK1R
+|       1       RPKPQ   5
+|               +| ||
+|       155     QPIPQ   159
+vmd -e predictions/7RMG_CASB_Hs_155_159/models_merging/view.vmd
+#7RMG_CASA1_Bt_16_18 NK1R
+|       1       RPK     3
+|               |||
+|       16      RPK     18
+vmd -e predictions/7RMG_CASA1_Bt_16_18/models_merging/view.vmd
+#7RMG_CASA1_Hs_101_103 NK1R
+|       5       QQF     7
+|               +||
+|       101     EQF     103
+vmd -e predictions/7RMG_CASA1_Hs_101_103/models_merging/view.vmd
+#7RMG_CASK_Hs_88_92 NK1R
+|       1       RPKPQ   5
+|               ||  |
+|       88      RPHAQ   92
+vmd -e predictions/7RMG_CASK_Hs_88_92/models_merging/view.vmd
+#7RMG_CASK_Bt_131_135 NK1R
+|       2       PKPQQ   6
+|               ||  |
+|       131     PKKNQ   135
+vmd -e predictions/7RMG_CASK_Bt_131_135/models_merging/view.vmd
+#7RMG_CASB_Hs_172_175 NK1R
+|       2       PKPQ    5
+|               |+|+
+|       172     PQPK    175
+vmd -e predictions/7RMG_CASB_Hs_172_175/models_merging/view.vmd
+#7RMG_CASA1_Bt_37_39 NK1R
+|       6       QFF     8
+|               +||
+|       37      RFF     39
+vmd -e predictions/7RMG_CASA1_Bt_37_39/models_merging/view.vmd
+#7RMG_CASA1_Bt_45_48 NK1R
+|       6       QFFG    9
+|               + ||
+|       45      EVFG    48
+vmd -e predictions/7RMG_CASA1_Bt_45_48/models_merging/view.vmd
+#7VGX_CASA1_Hs_37_45 Y1R
+|       28      INLITRQRY       36
+|               | | +|+ |
+|       37      IPLESREEY       45
+vmd -e predictions/7VGX_CASA1_Hs_37_45/models_merging/view.vmd
+#7VGX_CASA1_Hs_142_152 Y1R
+|       17      MARYYSALRHY     27
+|               +| |  |+ +|
+|       142     LAAYPYAVWYY     152
+vmd -e predictions/7VGX_CASA1_Hs_142_152/models_merging/view.vmd
+#7VGX_CASA1_Hs_100_105 Y1R
+|       14      AEDMAR  19
+|               ||   |
+|       100     AEQFCR  105
+vmd -e predictions/7VGX_CASA1_Hs_100_105/models_merging/view.vmd
+#7VGX_CASA1_Hs_30_33 Y1R
+|       13      PAED    16
+|               |+||
+|       30      PSED    33
+vmd -e predictions/7VGX_CASA1_Hs_30_33/models_merging/view.vmd
+#7X9B_CASA1_Hs_37_45 Y2R
+|       28      INLITRQRY       36
+|               | | +|+ |
+|       37      IPLESREEY       45
+vmd -e predictions/7X9B_CASA1_Hs_37_45/models_merging/view.vmd
+#7X9B_CASA1_Hs_142_152 Y2R
+|       17      MARYYSALRHY     27
+|               +| |  |+ +|
+|       142     LAAYPYAVWYY     152
+vmd -e predictions/7X9B_CASA1_Hs_142_152/models_merging/view.vmd
+#7X9B_CASA1_Hs_100_105 Y2R
+|       14      AEDMAR  19
+|               ||   |
+|       100     AEQFCR  105
+vmd -e predictions/7X9B_CASA1_Hs_100_105/models_merging/view.vmd
+#7X9B_CASA1_Hs_30_33 Y2R
+|       13      PAED    16
+|               |+||
+|       30      PSED    33
+vmd -e predictions/7X9B_CASA1_Hs_30_33/models_merging/view.vmd
+#8F7Q_CASB_Bt_93_98 MOPR
+|       10      SQTPLV  15
+|               +|||+|
+|       93      TQTPVV  98
+vmd -e predictions/8F7Q_CASB_Bt_93_98/models_merging/view.vmd
+#8F7Q_CASB_Bt_48_56 MOPR
+|       4       FMTSEKSQT       12
+|               | + |+ ||
+|       48      FQSEEQQQT       56
+vmd -e predictions/8F7Q_CASB_Bt_48_56/models_merging/view.vmd
+#7RYC_CASA1_Hs_73_75 OTR
+|       4       QNC     6
+|               |||
+|       73      QNC     75
+vmd -e predictions/7RYC_CASA1_Hs_73_75/models_merging/view.vmd
+#7RYC_CASB_Bt_87_90 OTR
+|       4       QNCP    7
+|               || |
+|       87      QNIP    90
+vmd -e predictions/7RYC_CASB_Bt_87_90/models_merging/view.vmd
+#7RYC_CASA1_Bt_183_185 OTR
+|       7       PLG     9
+|               |||
+|       183     PLG     185
+vmd -e predictions/7RYC_CASA1_Bt_183_185/models_merging/view.vmd
+#7RYC_CASA1_Bt_95_97 OTR
+|       2       YIQ     4
+|               +||
+|       95      HIQ     97
+vmd -e predictions/7RYC_CASA1_Bt_95_97/models_merging/view.vmd
+#8E3Z_CASA2_Bt_158_163 VIP1R
+|       2       SDAVFT  7
+|               |+ |||
+|       158     SEEVFT  163
+vmd -e predictions/8E3Z_CASA2_Bt_158_163/models_merging/view.vmd
+
+##SET3 
+#6PB0_CASA2_Bt_3_23 CRF1R
+|       11      FHLLRTLLELARTQSQRERAE   31
+|               | ++  || +| +    | ++
+|       3       FFIFTCLLAVALAKNTMEHVD   23
+vmd -e predictions/6PB0_CASA2_Bt_3_23/models_merging/view.vmd
+#6PB0_CASA2_Bt_172_178 CRF1R
+|       31      EQNRIIF 37
+|               | ||+ |
+|       172     EKNRLNF 178
+vmd -e predictions/6PB0_CASA2_Bt_172_178/models_merging/view.vmd
+#7TS0_CASA2_Bt_3_23 CRF2R
+|       11      FHLLRTLLELARTQSQRERAE   31
+|               | ++  || +| +    | ++
+|       3       FFIFTCLLAVALAKNTMEHVD   23
+vmd -e predictions/7TS0_CASA2_Bt_3_23/models_merging/view.vmd
+#7TS0_CASA2_Bt_172_178 CRF2R
+|       31      EQNRIIF 37
+|               | ||+ |
+|       172     EKNRLNF 178
+vmd -e predictions/7TS0_CASA2_Bt_172_178/models_merging/view.vmd
+#7F9Z_CASA1_Hs_149_151 GHSR
+|       3       AWF     5
+|               +|+
+|       149     VWY     151
+vmd -e predictions/7F9Z_CASA1_Hs_149_151/models_merging/view.vmd
+#7LLL_CASB_Bt_154_159 GLP1R
+|       21      LFIEWL  26
+|               |+ +|+
+|       154     LLQDWM  159
+vmd -e predictions/7LLL_CASB_Bt_154_159/models_merging/view.vmd
+#7LLL_CASB_Bt_48_59 GLP1R
+|       6       FTSDLSKQMEEE    17
+|               | |+   | |+|
+|       48      FQSEEQQQTEDE    59
+vmd -e predictions/7LLL_CASB_Bt_48_59/models_merging/view.vmd
+#7S1M_CASA1_Bt_73_80 GLP1R
+|       12      KQMEEEAV        19
+|               |||| | +
+|       73      KQMEAESI        80
+vmd -e predictions/7S1M_CASA1_Bt_73_80/models_merging/view.vmd
+#7S1M_CASA1_Bt_164_178 GLP1R
+|       21      LFIEWLKNGGPSSGA 35
+|               ||  +       |||
+|       164     LFRQFYQLDAYPSGA 178
+vmd -e predictions/7S1M_CASA1_Bt_164_178/models_merging/view.vmd
+#7D68_CASA1_Hs_89_94 GLP2R
+|       5       SFSDEM  10
+|               | |+||
+|       89      SSSEEM  94
+vmd -e predictions/7D68_CASA1_Hs_89_94/models_merging/view.vmd
+#7RMG_CASA1_Bt_167_171 NK1R
+|       6       QFFGL   10
+|               ||+ |
+|       167     QFYQL   171
+vmd -e predictions/7RMG_CASA1_Bt_167_171/models_merging/view.vmd
+#7RMG_CASA1_Hs_102_106 NK1R
+|       6       QFFGL   10
+|               ||+ |
+|       102     QFCRL   106
+vmd -e predictions/7RMG_CASA1_Hs_102_106/models_merging/view.vmd
+#7VGX_CASA1_Hs_149_159 Y1R
+|       18      ARYYSALRHYI     28
+|               + ||  + +|+
+|       149     VWYYPQIMQYV     159
+vmd -e predictions/7VGX_CASA1_Hs_149_159/models_merging/view.vmd
+#7VGX_CASA1_Hs_23_33 Y1R
+|       1       YPSKPDNPGED     11
+|               || +  || ||
+|       23      YPERLQNPSED     33
+vmd -e predictions/7VGX_CASA1_Hs_23_33/models_merging/view.vmd
+#7VGX_CASA1_Hs_88_94 Y1R
+|       11      DAPAEDM 17
+|               |   |+|
+|       88      DSSSEEM 94
+vmd -e predictions/7VGX_CASA1_Hs_88_94/models_merging/view.vmd
+#7VGX_CASA1_Hs_142_156 Y1R
+|       17      MARYYSALRHYINLI 31
+|               +| |  |+ +|  ++
+|       142     LAAYPYAVWYYPQIM 156
+vmd -e predictions/7VGX_CASA1_Hs_142_156/models_merging/view.vmd
+#7VGX_CASA1_Hs_14_23 Y1R
+|       17      MARYYSALRH      26
+|               +||    ||+
+|       14      LARPKLPLRY      23
+vmd -e predictions/7VGX_CASA1_Hs_14_23/models_merging/view.vmd
+#7VGX_CASA1_Bt_174_186 Y1R
+|       20      YYSALRHYINLIT   32
+|               | |   +|+ | |
+|       174     YPSGAWYYVPLGT   186
+vmd -e predictions/7VGX_CASA1_Bt_174_186/models_merging/view.vmd
+#7VGX_CASA1_Bt_61_72 Y1R
+|       6       DNPGEDAPAEDM    17
+|               |   ||   ||+
+|       61      DESTEDQAMEDI    72
+vmd -e predictions/7VGX_CASA1_Bt_61_72/models_merging/view.vmd
+#7VGX_CASA1_Bt_178_184 Y1R
+|       18      ARYYSAL 24
+|               | ||  |
+|       178     AWYYVPL 184
+vmd -e predictions/7VGX_CASA1_Bt_178_184/models_merging/view.vmd
+#7X9B_CASA1_Hs_149_159 Y2R
+|       18      ARYYSALRHYI     28
+|               + ||  + +|+
+|       149     VWYYPQIMQYV     159
+vmd -e predictions/7X9B_CASA1_Hs_149_159/models_merging/view.vmd
+#7X9B_CASA1_Hs_23_33 Y2R
+|       1       YPSKPDNPGED     11
+|               || +  || ||
+|       23      YPERLQNPSED     33
+vmd -e predictions/7X9B_CASA1_Hs_23_33/models_merging/view.vmd
+#7X9B_CASA1_Hs_88_94 Y2R
+|       11      DAPAEDM 17
+|               |   |+|
+|       88      DSSSEEM 94
+vmd -e predictions/7X9B_CASA1_Hs_88_94/models_merging/view.vmd
+#7X9B_CASA1_Hs_142_156 Y2R
+|       17      MARYYSALRHYINLI 31
+|               +| |  |+ +|  ++
+|       142     LAAYPYAVWYYPQIM 156
+vmd -e predictions/7X9B_CASA1_Hs_142_156/models_merging/view.vmd
+#7X9B_CASA1_Hs_14_23 Y2R
+|       17      MARYYSALRH      26
+|               +||    ||+
+|       14      LARPKLPLRY      23
+vmd -e predictions/7X9B_CASA1_Hs_14_23/models_merging/view.vmd
+#7X9B_CASA1_Bt_174_186 Y2R
+|       20      YYSALRHYINLIT   32
+|               | |   +|+ | |
+|       174     YPSGAWYYVPLGT   186
+vmd -e predictions/7X9B_CASA1_Bt_174_186/models_merging/view.vmd
+#7X9B_CASA1_Bt_61_72 Y2R
+|       6       DNPGEDAPAEDM    17
+|               |   ||   ||+
+|       61      DESTEDQAMEDI    72
+vmd -e predictions/7X9B_CASA1_Bt_61_72/models_merging/view.vmd
+#7X9B_CASA1_Bt_178_184 Y2R
+|       18      ARYYSAL 24
+|               | ||  |
+|       178     AWYYVPL 184
+vmd -e predictions/7X9B_CASA1_Bt_178_184/models_merging/view.vmd
+#7X9C_CASA1_Hs_45_53 Y4R
+|       27      YINMLTRPR       35
+|               |+| + | |
+|       45      YMNGMNRQR       53
+vmd -e predictions/7X9C_CASA1_Hs_45_53/models_merging/view.vmd
+#8F7W_CASA1_Bt_106_110 KOPR
+|       1       YGGFL   5
+|               | |+|
+|       106     YLGYL   110
+vmd -e predictions/8F7W_CASA1_Bt_106_110/models_merging/view.vmd
+#7RYC_CASA2_Bt_3_10 OTR
+|       1       CYIQNCPL        8
+|               ++|  | |
+|       3       FFIFTCLL        10
+vmd -e predictions/7RYC_CASA2_Bt_3_10/models_merging/view.vmd
+#7RYC_CASA1_Hs_99_106 OTR
+|       1       CYIQNCPL        8
+|               |  | | |
+|       99      CAEQFCRL        106
+vmd -e predictions/7RYC_CASA1_Hs_99_106/models_merging/view.vmd
+#7RYC_CASK_Hs_49_53 OTR
+|       1       CYIQN   5
+|               +|+ |
+|       49      YYVPN   53
+vmd -e predictions/7RYC_CASK_Hs_49_53/models_merging/view.vmd
+#8E3Y_CASK_Bt_79_89 VIP1R
+|       10      YSRYRKQMAVK     20
+|               |  | |  ||+
+|       79      YPYYAKPAAVR     89
+vmd -e predictions/8E3Y_CASK_Bt_79_89/models_merging/view.vmd
+#8E3Z_CASK_Hs_88_99 VIP1R
+|       12      RLRKQMAVKKYL    23
+|               |   |+  + ||
+|       88      RPHAQIPQRQYL    99
+vmd -e predictions/8E3Z_CASK_Hs_88_99/models_merging/view.vmd
+#7VQX_CASK_Bt_79_89 VIP2R
+|       10      YSRYRKQMAVK     20
+|               |  | |  ||+
+|       79      YPYYAKPAAVR     89
+vmd -e predictions/7VQX_CASK_Bt_79_89/models_merging/view.vmd

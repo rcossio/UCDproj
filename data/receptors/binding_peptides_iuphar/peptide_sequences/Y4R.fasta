@@ -1,0 +1,22 @@
+>pancreaticpolypeptide{Sp:Rat} | The C-terminal tyrosine is amidated. 
+APLEPMYPGDYATHEQRAQYETQLRRYINTLTRPRY
+>GR231118 | Residue 4 is 2,3-diaminopropanoic acid; C-terminal tyrosine is Tyr-CONH2 | Original:IEPXYRLRY
+IEPKYRLRY
+>pancreaticpolypeptide{Sp:Human} | The C-terminal tyrosine is amidated. 
+APLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY
+>[Pro<sup>34</sup>]PYY(human) | Glutamine residue at position 34 is replaced by proline 
+YPIKPEAPGEDASPEELNRYYASLRHYLNLVTRPRY
+>peptideYY{Sp:Human} | The C-terminal tyrosine is amidated. 
+YPIKPEAPGEDASPEELNRYYASLRHYLNLVTRQRY
+>neuropeptideY{Sp:Human,Mouse,Rat} | The C-terminal tyrosine is amidated. 
+YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY
+>[Leu<sup>31</sup>,Pro<sup>34</sup>]NPY | Isoleucine residue 31 and glutamine residue 34 of the natural sequence are replaced with leucine and proline respectively 
+YPLKPPNPGEDAPAEDMARYYSALRHYINLLTRPRY
+>NPY-(2-36)(pig) |  
+PSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY
+>NPY-(13-36)(pig) |  
+PAEDLARYYSALRHYINLITRQRY
+>pancreaticpolypeptide{Sp:Bovine} | Amidation of C-terminal tyrosine residue. 
+APLEPEYPGDNATPEQMAQYAAELRRYINMLTRPRY
+>[Ala<sup>31</sup>,Aib<sup>32</sup>]NPY(pig) | Isoleucine residue at position 31 of the natural sequence, and threonine residue at position 32 are replaced by alanine and &alpha;-aminoisobutyric acid (Aib) respectively | Original:YPSKPDNPGEDAPAEDLARYYSALRHYINLAXRQRY
+YPSKPDNPGEDAPAEDLARYYSALRHYINLALRQRY

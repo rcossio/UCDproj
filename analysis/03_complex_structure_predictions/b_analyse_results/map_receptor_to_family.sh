@@ -1,0 +1,69 @@
+#!/bin/bash
+
+receptor=$1
+
+
+case $receptor in
+    DOPR)
+        family=OPR
+        ;;
+    KOPR)
+        family=OPR
+        ;;
+    MOPR)
+        family=OPR
+        ;;
+    NOPR)
+        family=OPR
+        ;;
+    Y1R)
+        family=NPYR
+        ;;
+    Y2R)
+        family=NPYR
+        ;;
+    Y4R)
+        family=NPYR
+        ;;
+    NK1R)
+        family=NKR
+        ;;
+    CRF1R)
+        family=CRFR
+        ;;
+    CRF2R)
+        family=CRFR
+        ;;
+    VIP1R)
+        family=VIPR
+        ;;
+    VIP2R)
+        family=VIPR
+        ;;
+    OTR)
+        family=OTR
+        ;;
+    GCGR)
+        family=GCGR
+        ;;
+    GIPR)
+        family=GCGR
+        ;;
+    GLP1R)
+        family=GCGR
+        ;;
+    GLP2R)
+        family=GCGR
+        ;;
+    GHSR)
+        family=GHSR
+        ;;
+    M1R)
+        family=MR
+        ;;
+    *)
+        family=none
+        ;;
+esac
+
+echo $family

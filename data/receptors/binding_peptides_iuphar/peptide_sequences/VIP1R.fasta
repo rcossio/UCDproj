@@ -1,0 +1,36 @@
+>VIP{Sp:Human,Mouse,Rat} | C-terminal residue is asparagine amide 
+HSDAVFTDNYTRLRKQMAVKKYLNSILN
+>PACAP-27{Sp:Human,Mouse,Rat,Sheep} | C-terminal residue is leucine amide 
+HSDGIFTDSYSRYRKQMAVKKYLAAVL
+>PACAP-38{Sp:Human,Mouse,Rat} | C-terminal residue is lysine amide 
+HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK
+>[Ala<sup>11,22,28</sup>]VIP | C-terminal residue is alanine amide 
+HSDAVFTDNYARLRKQMAVKKALNSILA
+>helodermin | C-terminal residue is proline amide 
+HSDAIFTEEYSKLLAKLALQKYLASILGSRTSPPP
+>GHRH{Sp:Human} | C-terminal residue is leucine amide 
+YADAIFTNSYRKVLGQLSARKLLQDIMSRQQGESNQERGARARL
+>PHM{Sp:Human} | C-terminal residue is methionine amide 
+HADGVFTSDFSKLLGQLSAKKYLESLM
+>secretin{Sp:Pig} | C-terminal residue is valine amide 
+HSDGTFTSELSRLRDSARLQRLLQGLV
+>[Lys<sup>15</sup>,Arg<sup>16</sup>,Leu<sup>27</sup>]VIP-(1-7)/GRF-(8-27)-NH<sub>2</sub> | C-terminal residue is leucine amide. 
+HSDAVFTNSYRKVLKRLSARKLLQDIL
+>BAY55-9837 |  
+HSDAVFTDNYTRLRKQVAAKKYLQSIKNKRY
+>PG99-465 | N-terminal residue is myristoyl-histidine 
+HSDAVFTDNYTKLRKQMAVKKYLNSIKKGGT
+>Ro25-1553 | N-terminal histidine residue is acetylated; C-terminal threonine is amidated; residue 17 is norleucine (Nle) | Original:HSDAVFTENYTKLRKQXAAKKYLNDLKKGGT
+HSDAVFTENYTKLRKQLAAKKYLNDLKKGGT
+>N-stearyl-[Nle<sup>17</sup>]VIP | N-terminal histidine resdiue is covalently linked to a stearyl group; methionine residue at position 17 of the natural sequence is replaced by norleucine | Original:HSDAVFTDNYTRLRKQXAVKKYLNSILN
+HSDAVFTDNYTRLRKQLAVKKYLNSILN
+>[Arg<sup>16</sup>]chickensecretin | C-terminal residue is methionine amide 
+HSDGLFTSEYSKMRGRAQVQKFIQNLM
+>PHI{Sp:Pig} | C-terminal residue is isoleucine amide 
+HADGVFTSDYSRLLGQLSAKKYLESLI
+>PHV{Sp:Rat} | C-terminal residue is valine amide 
+HADGVFTSDYSRLLGQISAKKYLESLIGKRISSSISEDPVPV
+>PG97-269 |  
+HFDAVFTNSYRKVLKRLSARKLLQDIL
+>N-stearyl-[Nle<sup>17</sup>]neurotensin-(6-11)/VIP-(7-28) | N-terminal arginine is esterified with stearic acid, residue 17 is norleucine [<a href='javascript:callRef("ReferenceDisplayForward?referenceId=14054&displayId=1", 960, 600)' title="1. Gozes I, Lilling G, Glazer R, Ticher A, Ashkenazi IE, Davidson A, Rubinraut S, Fridkin M, Brenneman DE. (1995) J Pharmacol Exp Ther. 273 (1): 161-7">1</a>] | Original:KPRRPYTDNYTRLRKQXAVKKYLNSILN
+KPRRPYTDNYTRLRKQLAVKKYLNSILN

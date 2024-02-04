@@ -1,0 +1,66 @@
+Use this script to install MPI Rosetta 
+(MPI above 4.0 will raise a problem with infiniband comunication, also some gcc version where not working)
+
+#!/bin/bash
+#PBS -P XXXX1111
+#PBS -N install_rosetta
+#PBS -l select=1:ncpus=24:mpiprocs=24
+#PBS -l walltime=24:00:00
+#PBS -q smp
+#PBS -r n
+#PBS -o test.out
+#PBS -e test.err
+#PBS
+
+module purge
+module load chpc/openmpi/3.1.1/gcc-7.2.0
+
+cd /home/xxxxxxxxxx/lustre/rosetta_src_2021.16.61629_bundle/main/source
+./scons.py -j 24 bin mode=release extras=mpi
+
+
+Currently I am running rosetta with this script 
+
+#!/bin/bash
+#PBS -P XXXX1111
+#PBS -N testRosetta
+#PBS -l select=1:ncpus=24:mpiprocs=24
+#PBS -l walltime=24:00:00
+#PBS -q smp
+#PBS -r n
+#PBS -o testRosetta.out
+#PBS -e testRosetta.err
+#PBS
+
+module purge
+module load chpc/openmpi/3.1.1/gcc-7.2.0
+
+
+cd /home/xxxxxxxxxx/lustre/runsRosetta/test2
+ROSETTA=/home/xxxxxxxxxx/lustre/rosetta_bin_linux_2021.16.61629_bundle
+FlexPepDocking=$ROSETTA//main/source/bin/FlexPepDocking.static.linuxgccrelease
+
+ROSETTAMPI=/home/xxxxxxxxxx/lustre/rosetta_src_2021.16.61629_bundle
+FlexPepDockingMPI=$ROSETTAMPI/main/source/bin/FlexPepDocking.mpi.linuxgccrelease
+
+#Following https://bitbucket.org/lcbio/cabsdock/wiki/Home#markdown-header-311-docking-to-gpcrs
+#$FlexPepDocking -database $ROSETTA/main/database -s ../inputs/rank_001_model_2_seed_000.pdb -flexpep_prepack -ex1 -ex2aro     #default output: name-formated_0001.pdb
+
+cat > flexpepdock.flagfile <<EOF
+#-bGDT
+-nstruct 24
+-in::file::s      rank_001_model_2_seed_000_0001.pdb
+-out:file:silent flexpepdock-lowres.silent
+-out:file:silent_struct_type binary
+-detect_disulf true
+-rebuild_disulf true
+#-fix_disulf <path>/disulfide.dat
+-lowres_preoptimize true
+-pep_refine
+-ex1
+-ex2aro
+-use_input_sc
+EOF
+
+#$FlexPepDocking -database $ROSETTA/main/database @flexpepdock.flagfile
+mpirun -np 24 $FlexPepDockingMPI -database $ROSETTAMPI/main/database @flexpepdock.flagfile

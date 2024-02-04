@@ -1,0 +1,29 @@
+>DAMGO | Alanine residue 2 is D-alanine; phenylalanine residue 4 is N-methylated; C-terminal glycine is hydroxylated 
+YAGFG
+>dynorphin-(1-11) |  
+YGGFLRRIRPK
+>DADLE |  
+YAGFL
+>dynorphinB{Sp:Human,Mouse,Rat} |  
+YGGFLRRQFKVVT
+>dynorphinA-(1-8){Sp:Human,Mouse,Rat} |  
+YGGFLRRI
+>dynorphinA-(1-13){Sp:Human,Mouse,Rat} |  
+YGGFLRRIRPKLK
+>endomorphin-1{Sp:Human} | The C-terminal phenylalanine is amidated 
+YPWF
+>DSLET | Serine at position 2 is D-Ser 
+YSGFLT
+>PL017 | Phenylalanine residue is N-methylated; C-terminal proline is amidated and the D-isomer 
+YPFP
+>[Leu]enkephalin{Sp:Human,Mouse,Rat} |  
+YGGFL
+>dynorphinA{Sp:Human,Mouse,Rat} |  
+YGGFLRRIRPKLKWDNQ
+>CTOP | Residue 5 is ornithine; residue 7 is penicillamine (3-mercaptovaline); disulphide bond between cysteine residue at position 2 and penicillamine at position 7; C-terminal threonine residue is amidated | Original:FCYWXTXT
+FCYWKTCT
+>CTOP | Residue 5 is ornithine; residue 7 is penicillamine (3-mercaptovaline); disulphide bond between cysteine residue at position 2 and penicillamine at position 7; C-terminal threonine residue is amidated | Original:FCYWXTXT
+FCYWKTVT
+>CTAP | Residue 7 is penicillamine (3-mercaptovaline); disulphide bond formation between cysteine at position 2 and penicillamine at position 7, C-terminal threonine residue is amidated | Original:FCYWRTXT
+FCYWRTCT
+

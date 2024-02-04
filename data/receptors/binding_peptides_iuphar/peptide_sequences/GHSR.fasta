@@ -1,0 +1,12 @@
+>ghrelin{Sp:Human} | The third residue, a serine, is octanoylated. 
+GSSFLSPEHQRVQQRKESKKPPAKLQPR
+>examorelin | The tryptophan residue at postion 2 is D-Trp and has two methyl groups; phenylalanine at position 5 is D-Phe 
+HWAWFK
+>GHRP-6 | N-terminal histidine residue is methylated; C-terminal lysine is amidated 
+HWAWFK
+>wFw-Isn-NH<sub>2</sub> | Trps are D-isomers, Isn is isonipecotic acid 
+WFW
+>[D-Arg<sup>1</sup>,D-Phe<sup>5</sup>,D-Trp<sup>7,9</sup>,Leu<sup>11</sup>]substanceP | Arginine residue 1 is D-Arg; glutamine residue at position 5 of the natural sequence is replaced by D-Phe; phenyalanine residue 7 and glycine residue 9 are replaced by D-Trp; C-terminal methioine is replaced by leucine 
+RPKPFQWFWLL
+>liverenrichedantimicrobialpeptide2{Sp:Human} | Residues 1-22 are a signal peptide, and residues 23-37 is cleaved leaving amino acids 38-77 to form the mature peptide. Two disulphide bonds between Cys54and Cys65 and Cys60 and Cys70. 
+MWHLKLCAVLMIFLLLLGQIDGSPIPEVSSAKRRPRRMTPFWRGVSLRPIGASCRDDSECITRLCRKRRCSLSVAQE
